@@ -11,7 +11,7 @@ algorithms.
 ## 📂 Projects
 
 ### 1. 🎯 Recommendation System
-**File:** `Recommendation_system.py`
+**File:** `Recommendation_system`
 
 Built a content-based recommendation engine 
 using Python. Implements similarity scoring 
@@ -23,7 +23,7 @@ preferences and item features.
 ---
 
 ### 2. 🤖 AI Chatbot
-**File:** `chatbot_task01.py`
+**File:** `AI Chatbot`
 
 Developed a rule-based conversational 
 chatbot using Python. Handles user queries 
@@ -35,7 +35,7 @@ response logic.
 ---
 
 ### 3. 🎮 Tic-Tac-Toe AI (Minimax Algorithm)
-**File:** `tic-tac-toe_task02.py`
+**File:** `AI Game - Minimax Algorithm`
 
 Implemented an unbeatable Tic-Tac-Toe AI 
 using the Minimax algorithm — a classic 
